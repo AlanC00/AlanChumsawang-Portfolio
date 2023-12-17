@@ -20,13 +20,17 @@ Enhanced user interactivity by enabling adjustments to explore the impact of spe
 Transferable Skills for Data Analysis:
 
 Data Segmentation and Logic:
+
 Applied logic and segmentation techniques using IF statements, crucial for handling diverse datasets.
 
 Visualization Proficiency:
+
 Translated complex data into visually appealing graphs, showcasing the ability to communicate insights effectively.
 
 Pivot Table Expertise:
+
 Utilized pivot tables for efficient data summarization, a key skill in handling large datasets.
 
 User Interaction and Dashboard Design:
+
 Created an interactive dashboard, demonstrating skills valuable in data analysis roles.
